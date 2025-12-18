@@ -359,4 +359,4 @@ This is a demonstration project for educational purposes.
 
 ## Author
 
-Built following Clean Architecture, DDD, and SOLID principles with Test-Driven Development practices.
+Kleber W A S Oliveira
