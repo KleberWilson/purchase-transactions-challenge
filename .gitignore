@@ -1,0 +1,16 @@
+## Build results
+bin/
+obj/
+
+## Rider / VS Code
+.vscode/
+.idea/
+
+## OS
+.DS_Store
+
+## Test results
+TestResults/
+
+## Logs
+*.log
